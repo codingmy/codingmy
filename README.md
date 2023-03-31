@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingmy
-- 👀 I’m interested in app and backend
-- 🌱 I’m currently learning cpp, python, html, css, javascript
+- 👀 I’m interested in backend and app 
+- 🌱 I’m currently learning java, c, python, html, css, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email, codingmy@naver.com
 
