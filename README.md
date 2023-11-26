@@ -7,8 +7,6 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmy&layout=compact" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=codingmy" />
 </a>
 
 # 💪 Skills
